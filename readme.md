@@ -14,5 +14,6 @@ ii.	Staff
 Tech Stack:
 Android, Java, Kotlin, Firebase
 
-
+* APK of the project is also available(use light mode)
+* 
 ***Kindly download the zip file for viewing all the resources***
